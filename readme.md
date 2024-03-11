@@ -1,6 +1,6 @@
 # Epidemiology Methodology  - Data Science approach for Epidemiology studies
 
-![Code Logo](unzip_automation.png)
+![Code Logo](code.png)
 
 ## Description
 
