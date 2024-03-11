@@ -1,0 +1,11 @@
+2024-03-11 01:02:44,329 - INFO - START epidemiology_methodology =============================================
+2024-03-11 01:02:44,329 - INFO - START epidemiology_methodology Start Time = 2024-03-11 01:02:44
+2024-03-11 01:02:44,329 - INFO - epidemiology_methodology Step 0 - Initialize the configuration file parser
+2024-03-11 01:02:44,353 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-03-11 01:02:44,354 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-03-11 01:02:51,187 - INFO - Process epidemiology_methodology Step 0 - Initializing and starting Logging Process.
+2024-03-11 01:02:51,451 - INFO - PERFORMANCE epidemiology_methodology The total process duration was:7.12
+2024-03-11 01:02:51,453 - INFO - PERFORMANCE epidemiology_methodology Stop Time = 2024-03-11 01:02:51
+2024-03-11 01:02:51,453 - INFO - PERFORMANCE epidemiology_methodology Low process duration less than 3 minutes:7.12
+2024-03-11 01:02:51,453 - INFO - PERFORMANCE epidemiology_methodology Performance optimization is optional
+2024-03-11 01:02:51,453 - INFO - END epidemiology_methodology =============================================

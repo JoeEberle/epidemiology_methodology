@@ -1,0 +1,51 @@
+{
+  "Methodology": "Epidemiology Methodology",
+  "Methodology_Description": "Data science-based approach for modeling and studying disease in society",
+  "Steps": [
+    {
+      "Step#": 1,
+      "Step": "Define Study Parameters",
+      "Step_Detail": "Carefully define the condition or disease being studied and the population it exists in. Define the condition or disease using authoritative definitions from organizations like CDC or WHO for expected prevalence and incidence rates."
+    },
+    {
+      "Step#": 2,
+      "Step": "Understand Diagnostic Coding",
+      "Step_Detail": "Understand all ICD-10-CM diagnosis codes used to identify patients with the condition."
+    },
+    {
+      "Step#": 3,
+      "Step": "Build Condition Registry",
+      "Step_Detail": "Build a condition registry to house all diagnosed patients in the population."
+    },
+    {
+      "Step#": 4,
+      "Step": "Calculate Prevalence and Incidence Rates",
+      "Step_Detail": "Use data science to calculate yearly and monthly prevalence and incidence rates for the disease in the population."
+    },
+    {
+      "Step#": 5,
+      "Step": "Identify Treatment Protocols",
+      "Step_Detail": "Use data science to calculate procedures typically used to treat patients with the condition and classify into treatment protocols."
+    },
+    {
+      "Step#": 6,
+      "Step": "Calculate Risk and Treatment Pathways",
+      "Step_Detail": "Model and classify every patient's risk and treatment pathways."
+    },
+    {
+      "Step#": 7,
+      "Step": "Comparative Effectiveness Analysis",
+      "Step_Detail": "Perform comparative effectiveness analysis to determine the most effective treatment protocols."
+    },
+    {
+      "Step#": 8,
+      "Step": "Identify Gaps in Care",
+      "Step_Detail": "Identify gaps in treatment and determine strategies to close those gaps in care."
+    },
+    {
+      "Step#": 9,
+      "Step": "Efficiency Analysis",
+      "Step_Detail": "Perform analysis to identify inefficiencies in treatment protocols and explore remediation for efficiency gains."
+    }
+  ]
+}
