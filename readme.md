@@ -1,10 +1,10 @@
-# Unzip Automation  - Scan for ZIP files and uncompress
+# Epidemiology Methodology  - Data Science approach for Epidemiology studies
 
 ![Code Logo](unzip_automation.png)
 
 ## Description
 
-Welcome to the ** Unzip Automation ** Unzip Automation  - Scan for ZIP files and uncompress
+Welcome to the ** Epidemiology Methodology ** Epidemiology Methodology  - Data Science approach for Epidemiology studies
 
 The are many ways to do this. It isnt perfect !!! so Experiment. Branch it, configure it, and Change it. 
 
@@ -12,10 +12,8 @@ The are many ways to do this. It isnt perfect !!! so Experiment. Branch it, conf
 
 - Easy to understand and use  
 - Easily Configurable 
-- Automatically Unzip files and place them anywhere
 - Its Fast and Automated
-- It can be scheduled so you never forget 
-
+- Consistent scientific approach  
 
 ## Notebook Features
 
@@ -30,7 +28,7 @@ The are many ways to do this. It isnt perfect !!! so Experiment. Branch it, conf
 
 ## Getting Started
 
-To get started with the ** Correlation Heatmap ** project, follow these steps:
+To get started with the ** Epidemiology Methodology  ** project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
