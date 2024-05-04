@@ -10,7 +10,7 @@ The epidemiology_methodology establishes a versatile data science methodology fo
 
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
