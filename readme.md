@@ -1,12 +1,12 @@
 
-# Epidemiology Methodology - The epidemiology_methodology establishes a versatile data science methodology for epidemiology projects spanning various conditions or diseasesThe approach begins with comprehensive data collection, encompassing demographics, environmental factors, and relevant health metrics. Employing advanced statistical analyses and machine learning algorithms, the methodology aims to discern patterns, identify risk factors, and optimize predictive models, fostering a holistic understanding of the factors influencing the studied health outcomes.
-The epidemiology_methodology establishes a versatile data science methodology for epidemiology projects spanning various conditions or diseasesThe approach begins with comprehensive data collection, encompassing demographics, environmental factors, and relevant health metrics. Employing advanced statistical analyses and machine learning algorithms, the methodology aims to discern patterns, identify risk factors, and optimize predictive models, fostering a holistic understanding of the factors influencing the studied health outcomes.
+# Epidemiology Methodology - The epidemiology_methodology establishes a versatile data science methodology for epidemiology projects spanning various conditions or diseases The approach begins with comprehensive data collection, encompassing demographics, environmental factors, and relevant health metrics. Employing advanced statistical analyses and machine learning algorithms, the methodology aims to discern patterns, identify risk factors, and optimize predictive models, fostering a holistic understanding of the factors influencing the studied health outcomes.
+The epidemiology_methodology establishes a versatile data science methodology for epidemiology projects spanning various conditions or diseases The approach begins with comprehensive data collection, encompassing demographics, environmental factors, and relevant health metrics. Employing advanced statistical analyses and machine learning algorithms, the methodology aims to discern patterns, identify risk factors, and optimize predictive models, fostering a holistic understanding of the factors influencing the studied health outcomes.
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Epidemiology Methodology** - an example for your projects
 
-The epidemiology_methodology establishes a versatile data science methodology for epidemiology projects spanning various conditions or diseasesThe approach begins with comprehensive data collection, encompassing demographics, environmental factors, and relevant health metrics. Employing advanced statistical analyses and machine learning algorithms, the methodology aims to discern patterns, identify risk factors, and optimize predictive models, fostering a holistic understanding of the factors influencing the studied health outcomes.
+The epidemiology_methodology establishes a versatile data science methodology for epidemiology projects spanning various conditions or diseases The approach begins with comprehensive data collection, encompassing demographics, environmental factors, and relevant health metrics. Employing advanced statistical analyses and machine learning algorithms, the methodology aims to discern patterns, identify risk factors, and optimize predictive models, fostering a holistic understanding of the factors influencing the studied health outcomes.
 
 ![Image image_filename](sample.png)
 
@@ -38,4 +38,4 @@ To get started with the **Epidemiology Methodology** solution repository, follow
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](epidemiology_methodology.png)  <br>
+    ## Deliverables or Figures![additional_image](epidemiology_methodology.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
