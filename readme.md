@@ -46,4 +46,7 @@ To get started with the **Epidemiology Methodology** solution repository, follow
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](epidemiology_methodology.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](epidemiology_methodology.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
