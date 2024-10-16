@@ -39,11 +39,8 @@ To get started with the **Epidemiology Methodology** solution repository, follow
  ![additional_image](epidemiology_methodology.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
