@@ -4,11 +4,35 @@
 
 ## The epidemiology methodology establishes a versatile data science methodology for epidemiology projects spanning various conditions or diseases The approach begins with comprehensive data collection, encompassing demographics, environmental factors, and relevant health metrics. Employing advanced statistical analyses and machine learning algorithms, the methodology aims to discern patterns, identify risk factors, and optimize predictive models, fostering a holistic understanding of the factors influencing the studied health outcomes.
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 Welcome to the solution **Epidemiology Methodology** - an example for your projects
 
 The epidemiology methodology establishes a versatile data science methodology for epidemiology projects spanning various conditions or diseases The approach begins with comprehensive data collection, encompassing demographics, environmental factors, and relevant health metrics. Employing advanced statistical analyses and machine learning algorithms, the methodology aims to discern patterns, identify risk factors, and optimize predictive models, fostering a holistic understanding of the factors influencing the studied health outcomes.
-![Image image_filename](code.png)![Image image_filename](sample.png)
+
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
